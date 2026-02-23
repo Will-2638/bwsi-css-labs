@@ -13,6 +13,7 @@ def main():
 
     print(f"{name}, Welcome to the CSS course!")
     print(f"This is just for practice, do I remember python?")
+    This is to simulate a change made on a robot: robot_speed = 8 # m/s
 
 if __name__ == "__main__":
     main()
